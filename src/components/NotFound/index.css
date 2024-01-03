@@ -1,0 +1,22 @@
+.bg-containers {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+.heading {
+  font-weight: 500;
+}
+.description-heading {
+  color: #7e858e;
+}
